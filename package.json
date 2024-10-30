@@ -1,0 +1,25 @@
+{
+  "name": "auto-store",
+  "version": "1.0.0",
+  "description": "Auto Store by fleurdefontaine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fleurdefontaine",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.0-dev.1648166871.cedd053",
+    "ascii-table": "^0.0.9",
+    "box-console": "^2.0.0",
+    "cat-loggr": "^1.2.2",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.30.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.0",
+    "ms": "^2.1.3",
+    "voucher-code-generator": "^1.3.0"
+  }
+}
